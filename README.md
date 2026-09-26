@@ -10,6 +10,8 @@
 [![Watch the 90s demo](https://img.shields.io/badge/%E2%96%B6_Watch_90s_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tZgCnnuzCYA)
 [![What Tasvir can draw](https://img.shields.io/badge/What_Tasvir_can_draw-0b0b12?style=for-the-badge)](https://tasvir.ai/features/)
 
+[🏠 Tasvir app](https://github.com/Tasvir-app/Tasvir) · **🎨 Canvas Mode** · [📚 YKS Hazırlık (TR)](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik) · [🇹🇷 Türkçe](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR)
+
 </div>
 
 CRISPR as an IKEA assembly manual. A black hole as a luxury resort where you can check in but never check out. Inception as an architecture magazine. 18 series, each made from **a single prompt**: the AI drew up the plan, wrote the 25 scenes and illustrated every one of them.

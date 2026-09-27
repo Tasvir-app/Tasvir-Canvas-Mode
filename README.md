@@ -255,6 +255,8 @@ The full list: **[tasvir.ai/features](https://tasvir.ai/features/)**
 - **[Tasvir-Canvas-Mode-TR](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR)** — 45 canvas series in Turkish: Gallipoli as a Nolan storyboard, Turkish provinces as Pokémon cards.
 - **[Tasvir](https://github.com/Tasvir-app/Tasvir)** — study guides, reports, magazines and kids' books made with Tasvir.
 
+Running a school or team? **[Create an organization →](https://app.tasvir.ai/signup?next=/organization&src=github&utm_source=github&utm_medium=readme&utm_campaign=canvas-en&utm_content=institutions)**. [How it works](https://tasvir.ai/organizations/).
+
 ---
 
 <div align="center">

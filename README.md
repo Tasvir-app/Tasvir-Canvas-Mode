@@ -10,7 +10,7 @@
 [![Watch the 90s demo](https://img.shields.io/badge/%E2%96%B6_Watch_90s_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tZgCnnuzCYA)
 [![What Tasvir can draw](https://img.shields.io/badge/What_Tasvir_can_draw-0b0b12?style=for-the-badge)](https://tasvir.ai/features/)
 
-[🏠 Tasvir app](https://github.com/Tasvir-app/Tasvir) · **🎨 Canvas Mode** · [📚 YKS Hazırlık (TR)](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik) · [🇹🇷 Türkçe](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR)
+[🏠 Tasvir app](https://github.com/Tasvir-app/Tasvir) · **🎨 Canvas Mode** · [🖌️ Web → Figma](https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma) · [📚 YKS Hazırlık (TR)](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik) · [🇹🇷 Türkçe](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR)
 
 </div>
 
@@ -254,6 +254,7 @@ The full list: **[tasvir.ai/features](https://tasvir.ai/features/)**
 
 - **[Tasvir-Canvas-Mode-TR](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR)** — 45 canvas series in Turkish: Gallipoli as a Nolan storyboard, Turkish provinces as Pokémon cards.
 - **[Tasvir](https://github.com/Tasvir-app/Tasvir)** — study guides, reports, magazines and kids' books made with Tasvir.
+- **[Tasvir-Web-Designs-to-Figma](https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma)** — web designs at the same 1440px width, pasted into Figma as editable layers. Canvas scenes copy the same way.
 
 Running a school or team? **[Create an organization →](https://app.tasvir.ai/signup?next=/organization&src=github&utm_source=github&utm_medium=readme&utm_campaign=canvas-en&utm_content=institutions)**. [How it works](https://tasvir.ai/organizations/).
 
